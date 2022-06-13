@@ -10,12 +10,22 @@ Um projeto de teste com um arquivo README 🚀
 
 ## Como utilizar
 
-1 - Clone pro o projeto
+1 - Faça o clone do projeto
 ```
 git clone <url>
 ```
 
 2 - Acesse a pasta do projeto
 ```
-cd repositorio-com-readme
+cd pasta-projeto
+```
+
+3 - Instale as dependências
+```
+npm install
+```
+
+4 - Inicialize o servidor local
+```
+npm start
 ```
