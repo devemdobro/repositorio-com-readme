@@ -17,15 +17,5 @@ git clone <url>
 
 2 - Acesse a pasta do projeto
 ```
-cd pasta-projeto
-```
-
-3 - Instale as dependências
-```
-npm install
-```
-
-4 - Inicialize o servidor local
-```
-npm start
+cd repositorio-com-readme
 ```
